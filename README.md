@@ -19,7 +19,13 @@ Also note that this can take few minutes to lunch this application.
 Use OKEN Scanner App to pre process the OMR Sheet image for better results.
 And before running the app first create three folders with name Processed_OMR, Vertical_Split, Horizontal_Split and change their respective paths in the code file.
 
+This is the sample OMR Sheet that can be read by this app.
 
 ![OMR 2_page-0001](https://github.com/abhishek11122003/omr_scanner/assets/84235903/524902f1-1e92-4740-b28b-91be1a181814)
+
+
+The processed OMR looks something like this.
+
+![stacked_images_20230801014357](https://github.com/abhishek11122003/omr_scanner/assets/84235903/d3f6c2af-06ed-4a2b-8164-820615bdc864)
 
 
