@@ -7,7 +7,7 @@ This OMR reader shows marking on the 5th choice if the question is not marked wi
 
 The reader awards +4 marks for every correct answer and -1 for every incorrect answer and 0 for unattempted question.
 Please note that this OMR Reader is not 100% accurate.
-Also note that this can take few minutes to lunch this application.
+Also note that it can take few minutes to lunch this application.
 ![Screenshot (52)](https://github.com/abhishek11122003/omr_scanner/assets/84235903/34e27787-0ac1-4ff9-83b1-feb4a4bbd6fa)
 
 
